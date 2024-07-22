@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laptrinhmang\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69C247-6625-44B5-BFA0-28D0BD1BE32D}|Lab3_Bai6\\Lab3_Bai6.csproj|d:\\laptrinhmang\\lab3\\lab3_bai6\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F69C247-6625-44B5-BFA0-28D0BD1BE32D}|Lab3_Bai6\\Lab3_Bai6.csproj|solutionrelative:lab3_bai6\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4B7D5E-22FB-4D14-B7C6-E2344EE5D4AD}|Lab3_Bai5\\Lab3_Bai5.csproj|d:\\laptrinhmang\\lab3\\lab3_bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D4B7D5E-22FB-4D14-B7C6-E2344EE5D4AD}|Lab3_Bai5\\Lab3_Bai5.csproj|solutionrelative:lab3_bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064991D3-5EC1-4525-B548-3D3E518FC4ED}|Lab3_Bai4\\Lab3_Bai4.csproj|d:\\laptrinhmang\\lab3\\lab3_bai4\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{064991D3-5EC1-4525-B548-3D3E518FC4ED}|Lab3_Bai4\\Lab3_Bai4.csproj|solutionrelative:lab3_bai4\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064991D3-5EC1-4525-B548-3D3E518FC4ED}|Lab3_Bai4\\Lab3_Bai4.csproj|d:\\laptrinhmang\\lab3\\lab3_bai4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{064991D3-5EC1-4525-B548-3D3E518FC4ED}|Lab3_Bai4\\Lab3_Bai4.csproj|solutionrelative:lab3_bai4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai6.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai6\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai6\\Bai6.cs",
+              "ToolTip": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai6\\Bai6.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai6\\Bai6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:28:43.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai5\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai5\\Bai5.cs",
+              "ToolTip": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai5\\Bai5.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai5\\Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:27:16.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai4.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai4\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4\\Bai4.cs",
+              "ToolTip": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai4\\Bai4.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai4\\Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:25:22.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai4\\Server.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4\\Server.cs",
+              "ToolTip": "D:\\Laptrinhmang\\Lab3\\Lab3_Bai4\\Server.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai4\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:20:57.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

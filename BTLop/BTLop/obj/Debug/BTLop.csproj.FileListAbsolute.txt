@@ -1,0 +1,10 @@
+D:\Laptrinhmang\BTLop\BTLop\bin\Debug\BTLop.exe.config
+D:\Laptrinhmang\BTLop\BTLop\bin\Debug\BTLop.exe
+D:\Laptrinhmang\BTLop\BTLop\bin\Debug\BTLop.pdb
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.csproj.AssemblyReference.cache
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.Form1.resources
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.Properties.Resources.resources
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.csproj.GenerateResource.cache
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.csproj.CoreCompileInputs.cache
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.exe
+D:\Laptrinhmang\BTLop\BTLop\obj\Debug\BTLop.pdb

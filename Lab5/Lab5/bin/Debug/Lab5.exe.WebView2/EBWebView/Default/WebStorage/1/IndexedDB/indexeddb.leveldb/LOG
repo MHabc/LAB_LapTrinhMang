@@ -1,0 +1,13 @@
+2024/06/13-10:01:14.833 4e8 Reusing MANIFEST D:\Lab5\Lab5\bin\Debug\Lab5.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/06/13-10:01:14.834 4e8 Recovering log #7
+2024/06/13-10:01:14.834 4e8 Reusing old log D:\Lab5\Lab5\bin\Debug\Lab5.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000007.log 
+2024/06/13-10:01:15.005 518c Level-0 table #11: started
+2024/06/13-10:01:15.007 518c Level-0 table #11: 10876 bytes OK
+2024/06/13-10:01:15.010 518c Delete type=0 #7
+2024/06/13-10:01:15.014 4e8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\\x93\xf8\x00yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 508 : 1
+2024/06/13-10:01:15.017 4e8 Compacting 1@0 + 1@1 files
+2024/06/13-10:01:15.022 4e8 Generated table #12@0: 76 keys, 1208 bytes
+2024/06/13-10:01:15.022 4e8 Compacted 1@0 + 1@1 files => 1208 bytes
+2024/06/13-10:01:15.024 4e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/13-10:01:15.025 4e8 Delete type=2 #11
+2024/06/13-10:01:15.025 4e8 Manual compaction at level-0 from '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\\x93\xf8\x00yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 508 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

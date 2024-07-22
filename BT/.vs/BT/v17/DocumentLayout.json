@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laptrinhmang\\BT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|d:\\laptrinhmang\\bt\\bt\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|solutionrelative:bt\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|D:\\Laptrinhmang\\BT\\bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|solutionrelative:bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|d:\\laptrinhmang\\bt\\bt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|solutionrelative:bt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|D:\\Laptrinhmang\\BT\\bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95AFB8-748A-49FE-AD5B-05EDC4373F0E}|BT\\BT.csproj|solutionrelative:bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\BT\\BT\\Form1.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.cs",
+              "ToolTip": "D:\\Laptrinhmang\\BT\\BT\\Form1.cs",
+              "RelativeToolTip": "BT\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:38:50.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\BT\\BT\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.Designer.cs",
+              "ToolTip": "D:\\Laptrinhmang\\BT\\BT\\Form1.Designer.cs",
+              "RelativeToolTip": "BT\\Form1.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAIwIIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:39:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\BT\\BT\\RSA.cs",
+              "RelativeDocumentMoniker": "BT\\RSA.cs",
+              "ToolTip": "D:\\Laptrinhmang\\BT\\BT\\RSA.cs",
+              "RelativeToolTip": "BT\\RSA.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:18:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\BT\\BT\\Form1.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.cs",
+              "ToolTip": "D:\\Laptrinhmang\\BT\\BT\\Form1.cs [Design]",
+              "RelativeToolTip": "BT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:38:08.132Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

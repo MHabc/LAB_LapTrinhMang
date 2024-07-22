@@ -1,0 +1,7 @@
+2024/06/13-09:59:25.917 6974 Reusing MANIFEST D:\Lab5\Lab5\bin\Debug\Lab5.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/06/13-09:59:25.918 6974 Recovering log #4
+2024/06/13-09:59:25.919 6974 Reusing old log D:\Lab5\Lab5\bin\Debug\Lab5.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000004.log 
+2024/06/13-09:59:25.935 3088 Level-0 table #8: started
+2024/06/13-09:59:25.940 3088 Level-0 table #8: 30717 bytes OK
+2024/06/13-09:59:25.945 3088 Delete type=0 #4
+2024/06/13-09:59:25.945 5e4c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

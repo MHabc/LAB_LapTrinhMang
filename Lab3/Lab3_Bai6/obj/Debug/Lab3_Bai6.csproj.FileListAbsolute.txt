@@ -1,0 +1,12 @@
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.csproj.AssemblyReference.cache
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.Bai6.resources
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.Client.resources
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.Properties.Resources.resources
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.Server.resources
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.csproj.GenerateResource.cache
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.csproj.CoreCompileInputs.cache
+D:\Laptrinhmang\Lab3\Lab3_Bai6\bin\Debug\Lab3_Bai6.exe.config
+D:\Laptrinhmang\Lab3\Lab3_Bai6\bin\Debug\Lab3_Bai6.exe
+D:\Laptrinhmang\Lab3\Lab3_Bai6\bin\Debug\Lab3_Bai6.pdb
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.exe
+D:\Laptrinhmang\Lab3\Lab3_Bai6\obj\Debug\Lab3_Bai6.pdb
